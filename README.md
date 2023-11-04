@@ -13,7 +13,7 @@ organization.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasindu02&label=Profile%20views&color=0e75b6&style=flat" alt="yasindu02" /> </p>
 
-- 💬 Ask me about **MERN Stack, Angular, .NET, Laravel**, 
+- 💬 Ask me about **MERN Stack, Angular, .NET, Laravel**
 
 - 📫 How to reach me **yasinduwengappuliarachchi@gmail.com**
 
