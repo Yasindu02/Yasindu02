@@ -1,6 +1,13 @@
 ![](https://github.com/Yasindu02/image.png)
 <h1 align="center">Hello, I'm Yasindu Sathsara Wengappuliarachchi</h1>
-<h3 align="center">Hello, I am a self motivated, organized and hardworking individual who is currently an undergraduate student at the NIBM and I am passionate about Frontend Development(React JS), Mobile Application Development and UI/UX Engineering. I am eager to enhance my knowledge and work experience to respond to new challenges with dedication, hard work, and innovative solutions.
+<h3 align="center">I am a self-motivated, organized, and hardworking individual with
+hands-on experience in the IT industry as an Intern Software
+Engineer using MERN stack, Angular, and .Net. I am highly
+adaptable, eager to learn, and committed to contributing to a
+dynamic software engineering team. I am excited to apply my
+knowledge and enthusiasm to make a meaningful impact in your
+organization.
+
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
