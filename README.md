@@ -19,7 +19,7 @@ organization.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/yasinduwengappuliarachchi-a49169229
+<a href="www.linkedin.com/in/yasinduwengappuliarachchi
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasindu sathsara wengappuliarachchi" height="30" width="40" /></a>
 <a href="https://fb.com/yasindu sathsara wengappuliarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasindu sathsara wengappuliarachchi" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_wolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_wolf" height="30" width="40" /></a>
