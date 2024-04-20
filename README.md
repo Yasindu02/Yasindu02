@@ -1,8 +1,8 @@
 ![](https://github.com/Yasindu02/image.png)
 <h1 align="center">Hello, I'm Yasindu Sathsara Wengappuliarachchi</h1>
 <h3 align="center">I am a self-motivated, organized, and hardworking individual with
-hands-on experience in the IT industry as an Intern Software
-Engineer using MERN stack, Laravel, Flutter. I am highly
+hands-on experience in the IT industry as Software
+Engineer using .NET, Angular, React and SQL. I am highly
 adaptable, eager to learn, and committed to contributing to a
 dynamic software engineering team. I am excited to apply my
 knowledge and enthusiasm to make a meaningful impact in your
@@ -11,7 +11,7 @@ organization.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **Web Application Development and Mobile Application Development**
+- 💬 Ask me about **Web Application Development**
 
 - 📫 How to reach me **yasinduwengappuliarachchi@gmail.com**
 
