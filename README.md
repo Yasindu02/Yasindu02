@@ -1,5 +1,3 @@
-![Header](https://github.com/Yasindu02/image.png)
-
 <h1 align="center">Hello, I'm Yasindu Wengappuli</h1>
 <h3 align="center">
 I’m a Data Analyst and Software Engineer with nearly 2 years of experience in full-stack development and growing expertise in data science, business intelligence, and data visualization.
